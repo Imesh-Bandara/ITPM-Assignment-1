@@ -38,7 +38,7 @@ Follow these steps to set up the environment and run the tests.
 git clone https://github.com/MohiruTushanJayawardhana/ITPM-Assignment-01-IT23155398.git
 ```
 ```bash
-cd ITPM-Assignment-01-IT23155398
+cd ITPM-Assignment-01-IT23313316
 ```
 
 ### Step 2: Install required dependencies
@@ -67,10 +67,10 @@ python "IT23155398_test_automation.py" --excel "IT23155398_Assignment 1 - Test c
 
 ### Example usage:
 
---excel "C:\Path\To\Folder\ITPM-Assignment-01-IT23155398\IT23155398_Assignment 1 - Test cases.xlsx"
+--excel "C:\Path\To\Folder\ITPM-Assignment-01-IT23313316\IT23313316_Assignment 1 - Test cases.xlsx"
 
 ### Example:
---excel "C:\Users\User\Documents\ITPM 2026\ITPM-Assignment-01-IT23155398\IT23155398_Assignment 1 - Test cases.xlsx"
+--excel "C:\Users\User\Documents\ITPM 2026\ITPM-Assignment-01-IT23313316\IT23313316_Assignment 1 - Test cases.xlsx"
 
 ### Script Execution Details
 
@@ -92,7 +92,7 @@ The 50 negative test cases were designed to expose weaknesses in the translitera
 
 ## 👤 Author
 
-* **Name:** Jayawardhana D.V.M.T
-* **Student ID:** IT23155398
+* **Name:** Harshana A M I
+* **Student ID:** IT23313316
 * **Module:** IT3040 - Information Technology Project Management (ITPM)
 * **Institution:** Sri Lanka Institute of Information Technology (SLIIT)
