@@ -1,0 +1,11 @@
+================================================================================
+CHAT TRANSLATOR TEST AUTOMATION PROJECT
+ITPM Assignment 1 - Test Case Automation
+================================================================================
+
+PROJECT ID: IT_23313316
+GITHUB REPOSITORY: https://github.com/Imesh-Bandara/ITPM-Assignment-1
+APPLICATION URL: https://www.pixelssuite.com/chat-translator
+
+
+================================================================================
